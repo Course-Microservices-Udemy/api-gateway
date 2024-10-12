@@ -1,0 +1,1 @@
+export const PRODUCTS_SERVICE = Symbol('PRODUCTS_SERVICE');
